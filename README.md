@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently learning MERN Stack
+- 🔭 I’m currently learning Full Stack Web Development
 - 📫 How to reach me: https://twitter.com/sidd_hub
 
 
